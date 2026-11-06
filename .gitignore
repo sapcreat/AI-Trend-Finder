@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+
+*.pyc
+*.pyo
+
+embeddings/
+models/
+
+.streamlit/
+
+.idea/
+.vscode/
